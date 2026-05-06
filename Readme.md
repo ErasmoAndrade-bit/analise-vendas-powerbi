@@ -42,7 +42,7 @@ O dashboard apresenta os seguintes indicadores estratégicos:
 
 ## 📸 Dashboard
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagem/dash.png)
 
 ---
 
